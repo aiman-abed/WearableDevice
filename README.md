@@ -1,1 +1,1 @@
-# BluetoothAppWearableDevice
+# WearableDevice
